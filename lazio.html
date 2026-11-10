@@ -172,6 +172,14 @@
     var emptyS = document.getElementById("nessuna-scadenza");
     if (emptyS) emptyS.hidden = scadVis !== 0;
   }
+  function cardAperta(card) {
+    if (card.getAttribute("data-scaduto") === "1") return false;
+    var statoCard = card.getAttribute("data-stato") || "";
+    if (statoCard && statoCard !== "aperto") return false;
+    var apreCard = card.getAttribute("data-apre") || "";
+    if (apreCard && daysLeft(apreCard, start) > 0) return false;
+    return true;
+  }
   var list = document.getElementById("elenco");
   if (!list) return;
   var cards = list.querySelectorAll("article.card");
@@ -183,9 +191,7 @@
       expired.push(card);
       continue;
     }
-    var apreCard = card.getAttribute("data-apre") || "";
-    if (apreCard && daysLeft(apreCard, start) > 0) continue;
-    open++;
+    if (cardAperta(card)) open++;
   }
   for (var n = 0; n < expired.length; n++) list.appendChild(expired[n]);
   var label = open === 1 ? "1 bando aperto" : open + " bandi aperti";
@@ -203,23 +209,23 @@
         known = true;
         var reg = key.slice(4);
         for (var ri = 0; ri < cards.length; ri++) {
-          if (cards[ri].getAttribute("data-reg") === reg && cards[ri].getAttribute("data-scaduto") !== "1") tot++;
+          if (cards[ri].getAttribute("data-reg") === reg && cardAperta(cards[ri])) tot++;
         }
       } else if (key.indexOf("dest:") === 0) {
         known = true;
         var destName = key.slice(5);
         for (var di = 0; di < cards.length; di++) {
           var bits = (cards[di].getAttribute("data-dest") || "").split("|");
-          if (bits.indexOf(destName) !== -1 && cards[di].getAttribute("data-scaduto") !== "1") tot++;
+          if (bits.indexOf(destName) !== -1 && cardAperta(cards[di])) tot++;
         }
       }
       if (known) conti[t].textContent = String(tot);
     }
   }
 })();
-</script><section aria-labelledby="dest-qui"><h2 id="dest-qui">Destinatari</h2><ul class="pills"><li><a href="/settore/pmi">PMI<span class="num" data-conto="dest:PMI">1</span></a></li><li><a href="/settore/professionisti">Professionisti<span class="num" data-conto="dest:Professionisti">1</span></a></li></ul></section><section aria-labelledby="altre-aree"><h2 id="altre-aree">Altre aree</h2><img src="/assets/img/bandi-per-area.webp" width="800" height="308" alt="Tre paesaggi stilizzati con segnaposto: colline toscane con cipressi e vigneti, colline umbre con un borgo medievale e ulivi, pianura emiliana con filari di pioppi e un casolare" loading="lazy" decoding="async" class="sec-img"><ul class="pills"><li><a href="/nazionale">Nazionali<span class="num" data-conto="reg:Nazionale">10</span></a></li><li><a href="/toscana">Toscana<span class="num" data-conto="reg:Toscana">22</span></a></li><li><a href="/umbria">Umbria<span class="num" data-conto="reg:Umbria">5</span></a></li><li><a href="/emilia-romagna">Emilia-Romagna<span class="num" data-conto="reg:Emilia-Romagna">17</span></a></li><li><a href="/europa">Europa<span class="num">3</span></a></li></ul></section><aside class="fpef" aria-label="FoglioPEF, progetto dello stesso titolare"><p class="lab">Progetto dello stesso titolare</p><h2>FoglioPEF</h2><p>FoglioPEF: modelli Excel per business plan, immobiliare e finanza d'impresa.</p><p class="row"><a class="btn outline" href="https://fogliopef.github.io" rel="noopener noreferrer" target="_blank">Apri FoglioPEF<span class="vh"> (si apre in una nuova scheda)</span></a><a href="https://www.linkedin.com/company/fogliopef" rel="noopener noreferrer" target="_blank">FoglioPEF su LinkedIn<span class="vh"> (si apre in una nuova scheda)</span></a></p></aside></div></main>
+</script><section aria-labelledby="dest-qui"><h2 id="dest-qui">Destinatari</h2><ul class="pills"><li><a href="/settore/pmi">PMI<span class="num" data-conto="dest:PMI">1</span></a></li><li><a href="/settore/professionisti">Professionisti<span class="num" data-conto="dest:Professionisti">1</span></a></li></ul></section><section aria-labelledby="altre-aree"><h2 id="altre-aree">Altre aree</h2><img src="/assets/img/bandi-per-area.webp" width="800" height="308" alt="Tre paesaggi stilizzati con segnaposto: colline toscane con cipressi e vigneti, colline umbre con un borgo medievale e ulivi, pianura emiliana con filari di pioppi e un casolare" loading="lazy" decoding="async" class="sec-img"><ul class="pills"><li><a href="/nazionale">Nazionali<span class="num" data-conto="reg:Nazionale">9</span></a></li><li><a href="/toscana">Toscana<span class="num" data-conto="reg:Toscana">21</span></a></li><li><a href="/umbria">Umbria<span class="num" data-conto="reg:Umbria">5</span></a></li><li><a href="/emilia-romagna">Emilia-Romagna<span class="num" data-conto="reg:Emilia-Romagna">14</span></a></li><li><a href="/europa">Europa<span class="num">2</span></a></li></ul></section><aside class="fpef" aria-label="FoglioPEF, progetto dello stesso titolare"><p class="lab">Progetto dello stesso titolare</p><h2>FoglioPEF</h2><p>FoglioPEF: modelli Excel per business plan, immobiliare e finanza d'impresa.</p><p class="row"><a class="btn outline" href="https://fogliopef.github.io" rel="noopener noreferrer" target="_blank">Apri FoglioPEF<span class="vh"> (si apre in una nuova scheda)</span></a><a href="https://www.linkedin.com/company/fogliopef" rel="noopener noreferrer" target="_blank">FoglioPEF su LinkedIn<span class="vh"> (si apre in una nuova scheda)</span></a></p></aside></div></main>
 <footer><div class="wrap">
-<p><strong>IncentiviPerTe</strong> · raccolta gratuita e indipendente di bandi per startup e PMI, da Arezzo, per le imprese di tutta la Toscana, dell'Umbria e dell'Emilia-Romagna, più gli incentivi nazionali. Altre Regioni e le schede europee compaiono solo se sono nel catalogo. Le schede sono sintesi: fa fede solo il bando ufficiale.</p>
+<p><strong>IncentiviPerTe</strong> · raccolta gratuita e indipendente di bandi per imprese, da Arezzo. Il catalogo comprende misure italiane e dell'Unione europea sfruttabili da chi opera in Italia, a copertura parziale: non è un elenco esaustivo di tutti i bandi esistenti. Le schede sono sintesi: fa fede solo il bando ufficiale.</p>
 <nav aria-label="Aree"><p><strong>Aree</strong></p><ul><li><a href="/nazionale">Nazionali</a></li><li><a href="/toscana">Toscana</a></li><li><a href="/umbria">Umbria</a></li><li><a href="/emilia-romagna">Emilia-Romagna</a></li><li><a href="/europa">Europa</a></li></ul></nav>
 <nav aria-label="Destinatari"><p><strong>Destinatari</strong></p><ul><li><a href="/settore/startup">Startup</a></li><li><a href="/settore/pmi">PMI</a></li><li><a href="/settore/nuove-imprese">Nuove imprese</a></li><li><a href="/settore/under-35">Under 35</a></li><li><a href="/settore/donne">Donne</a></li><li><a href="/settore/investitori">Investitori</a></li><li><a href="/settore/professionisti">Professionisti</a></li><li><a href="/settore/grandi-imprese">Grandi imprese</a></li></ul></nav>
 <nav aria-label="Guide"><p><strong>Guide</strong></p><ul><li><a href="/guida/bando-a-sportello">Bando a sportello</a></li><li><a href="/guida/de-minimis">Regime de minimis</a></li><li><a href="/guida/fondo-perduto-o-finanziamento-agevolato">Fondo perduto o finanziamento</a></li></ul></nav>
