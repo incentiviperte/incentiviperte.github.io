@@ -6,7 +6,7 @@ METHOD:PUBLISH
 X-WR-CALNAME:Scadenze bandi IncentiviPerTe
 BEGIN:VEVENT
 UID:cciaa-maremma-tirreno-agricoltura-green-2026@incentiviperte.github.io
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:Bando Agricoltura green – 2026 (Livorno e Grosseto)
@@ -21,7 +21,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cciaa-maremma-tirreno-certificazioni-qualita-2026@incentiviperte.github
  .io
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:Bando certificazioni di qualità – 2026 (Livorno e Grosseto)
@@ -34,7 +34,7 @@ LOCATION:Toscana
 END:VEVENT
 BEGIN:VEVENT
 UID:cciaa-maremma-tirreno-creazione-impresa-2026@incentiviperte.github.io
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:Bando a sostegno della creazione d'impresa – 2026 (Livorno e Gros
@@ -48,7 +48,7 @@ LOCATION:Toscana
 END:VEVENT
 BEGIN:VEVENT
 UID:cciaa-maremma-tirreno-doppia-transizione-2026@incentiviperte.github.io
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:Bando Doppia Transizione: digitale e sostenibile – 2026 (Livorno 
@@ -63,7 +63,7 @@ LOCATION:Toscana
 END:VEVENT
 BEGIN:VEVENT
 UID:cciaa-maremma-tirreno-imprese-vicinato-2026@incentiviperte.github.io
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:Bando a sostegno delle imprese di vicinato – 2026 (Livorno e Gros
@@ -79,7 +79,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cciaa-maremma-tirreno-internazionalizzazione-2026@incentiviperte.github
  .io
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:Bando a sostegno dell'internazionalizzazione delle imprese – 2026
@@ -94,7 +94,7 @@ LOCATION:Toscana
 END:VEVENT
 BEGIN:VEVENT
 UID:cciaa-maremma-tirreno-societa-benefit-2026@incentiviperte.github.io
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:Bando a sostegno della creazione di società benefit – 2026 (Livo
@@ -108,7 +108,7 @@ LOCATION:Toscana
 END:VEVENT
 BEGIN:VEVENT
 UID:cciaa-maremma-tirreno-turismo-sostenibile-2026@incentiviperte.github.io
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:Transizione sostenibile delle imprese turistiche – 2026 (Livorno 
@@ -122,7 +122,7 @@ LOCATION:Toscana
 END:VEVENT
 BEGIN:VEVENT
 UID:cciaa-romagna-antirapina-2026@incentiviperte.github.io
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261110
 DTEND;VALUE=DATE:20261111
 SUMMARY:Contributi per sistemi di sicurezza antirapina – 2026 (Forlì-Ces
@@ -135,7 +135,7 @@ LOCATION:Emilia-Romagna
 END:VEVENT
 BEGIN:VEVENT
 UID:cciaa-pistoia-prato-formazione-lavoro-2026@incentiviperte.github.io
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261112
 DTEND;VALUE=DATE:20261113
 SUMMARY:Contributi per la Formazione Scuola Lavoro e la certificazione dell
@@ -149,7 +149,7 @@ LOCATION:Toscana
 END:VEVENT
 BEGIN:VEVENT
 UID:bando-neve-funzionamento-toscana-2026@incentiviperte.github.io
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
 SUMMARY:Bando Neve: spese di funzionamento 2026
@@ -162,7 +162,7 @@ LOCATION:Toscana
 END:VEVENT
 BEGIN:VEVENT
 UID:fotovoltaico-pensiline-er-2026@incentiviperte.github.io
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
 SUMMARY:Supporto all'utilizzo di fonti rinnovabili nelle imprese (fotovolta
@@ -175,7 +175,7 @@ LOCATION:Emilia-Romagna
 END:VEVENT
 BEGIN:VEVENT
 UID:valore-artigiano-lazio-2026@incentiviperte.github.io
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261116
 DTEND;VALUE=DATE:20261117
 SUMMARY:Valore Artigiano 2026
@@ -187,7 +187,7 @@ LOCATION:Lazio
 END:VEVENT
 BEGIN:VEVENT
 UID:ferrara-locali-sfitti-centro-storico@incentiviperte.github.io
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261120
 DTEND;VALUE=DATE:20261121
 SUMMARY:Nuove attività nei locali commerciali sfitti del centro storico di
@@ -199,9 +199,38 @@ URL:https://incentiviperte.github.io/bando/ferrara-locali-sfitti-centro-sto
 LOCATION:Emilia-Romagna
 END:VEVENT
 BEGIN:VEVENT
+UID:veneto-metalmeccanica-sicurezza-macchine-2026@incentiviperte.github.io
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261122
+DTEND;VALUE=DATE:20261123
+SUMMARY:Bando Metalmeccanica 2026 – contributi per la sostituzione o il m
+ iglioramento della sicurezza delle macchine
+DESCRIPTION:Termine prorogato al 22 novembre 2026. La notizia ufficiale non
+  indica l’ora di scadenza né la data di apertura originaria.\nScheda: h
+ ttps://incentiviperte.github.io/bando/veneto-metalmeccanica-sicurezza-macc
+ hine-2026
+URL:https://incentiviperte.github.io/bando/veneto-metalmeccanica-sicurezza-
+ macchine-2026
+LOCATION:Veneto
+END:VEVENT
+BEGIN:VEVENT
+UID:cciaa-gran-sasso-export-2026@incentiviperte.github.io
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261124
+DTEND;VALUE=DATE:20261125
+SUMMARY:Bando per il sostegno alla competitività internazionale e allo svi
+ luppo dell’export 2026 – CCIAA Gran Sasso d’Italia
+DESCRIPTION:Istanze in modalità telematica\; sportello dalle 12:00 del 26/
+ 10/2026 alle 12:00 del 24/11/2026\, in ordine cronologico fino a esaurimen
+ to delle risorse.\nScheda: https://incentiviperte.github.io/bando/cciaa-gr
+ an-sasso-export-2026
+URL:https://incentiviperte.github.io/bando/cciaa-gran-sasso-export-2026
+LOCATION:Abruzzo
+END:VEVENT
+BEGIN:VEVENT
 UID:lombardia-sviluppo-tecnologico-startup-innovative-2026@incentiviperte.g
  ithub.io
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261125
 DTEND;VALUE=DATE:20261126
 SUMMARY:Sviluppo tecnologico delle startup innovative – Lombardia
@@ -215,8 +244,24 @@ URL:https://incentiviperte.github.io/bando/lombardia-sviluppo-tecnologico-s
 LOCATION:Lombardia
 END:VEVENT
 BEGIN:VEVENT
+UID:cciaa-gran-sasso-imprese-giovanili-femminili-2026@incentiviperte.github
+ .io
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261127
+DTEND;VALUE=DATE:20261128
+SUMMARY:Bando 2026 per la concessione di contributi alle nuove imprese giov
+ anili e alle imprese femminili – CCIAA Gran Sasso d’Italia
+DESCRIPTION:Domande via PEC a\, in un unico file PDF\, dalle 10:00 del 29/1
+ 0/2026 alle 18:00 del 27/11/2026\, in ordine cronologico fino a esauriment
+ o delle risorse.\nScheda: https://incentiviperte.github.io/bando/cciaa-gra
+ n-sasso-imprese-giovanili-femminili-2026
+URL:https://incentiviperte.github.io/bando/cciaa-gran-sasso-imprese-giovani
+ li-femminili-2026
+LOCATION:Abruzzo
+END:VEVENT
+BEGIN:VEVENT
 UID:piemonte-energie-rinnovabili-2026@incentiviperte.github.io
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261127
 DTEND;VALUE=DATE:20261128
 SUMMARY:Promozione dell’utilizzo delle energie rinnovabili nelle imprese 
@@ -229,8 +274,45 @@ URL:https://incentiviperte.github.io/bando/piemonte-energie-rinnovabili-202
 LOCATION:Piemonte
 END:VEVENT
 BEGIN:VEVENT
+UID:abruzzo-incentivi-assunzione-giovani-2026@incentiviperte.github.io
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:Incentivi all’assunzione di giovani 18-35 anni – FSE+ Regione A
+ bruzzo
+DESCRIPTION:Domande sullo Sportello Digitale della Regione Abruzzo dalle or
+ e 9 del 28/05/2026. Scadenza avviso indicata dal portale ufficiale: 30/11/
+ 2026 (ora di chiusura non esposta nel riquadro «Scadenza Avviso»).\nSche
+ da: https://incentiviperte.github.io/bando/abruzzo-incentivi-assunzione-gi
+ ovani-2026
+URL:https://incentiviperte.github.io/bando/abruzzo-incentivi-assunzione-gio
+ vani-2026
+LOCATION:Abruzzo
+END:VEVENT
+BEGIN:VEVENT
+UID:campania-feampa-trasformazione-commercializzazione-2026@incentiviperte.
+ github.io
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:PN FEAMPA 2021/2027 – Obiettivo specifico 2.2 – Azioni 2 e 4 (i
+ nterventi 222202 e 222402): competitività\, sicurezza\, commercializzazio
+ ne e trasformazione dei prodotti della pesca e dell’acquacoltura
+DESCRIPTION:Termine prorogato alle ore 23:59 del 30/11/2026 (decreto 834 de
+ l 23/10/2026\; il decreto 688/2026 fissava le ore 24:00 del 30/10/2026). L
+ a data di apertura dello sportello non è indicata nei due decreti né sul
+ la pagina ufficiale dell’obiettivo 2.2: il bando è stato approvato il 0
+ 7/09/2026 e pubblicato sul BURC n. 49 del 14/09/2026. Dato di apertura pun
+ tuale non pubblicato nelle fonti ufficiali controllate il 10/11/2026. Aper
+ tura: dato non ancora pubblicato.\nScheda: https://incentiviperte.github.i
+ o/bando/campania-feampa-trasformazione-commercializzazione-2026
+URL:https://incentiviperte.github.io/bando/campania-feampa-trasformazione-c
+ ommercializzazione-2026
+LOCATION:Campania
+END:VEVENT
+BEGIN:VEVENT
 UID:cciaa-arezzo-siena-certificazioni-2026@incentiviperte.github.io
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Contributi per certificazione parità di genere e altri sistemi –
@@ -244,7 +326,7 @@ LOCATION:Toscana
 END:VEVENT
 BEGIN:VEVENT
 UID:cciaa-modena-fondo-sicurezza-2026@incentiviperte.github.io
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Fondo per la Sicurezza – 2026
@@ -257,7 +339,7 @@ LOCATION:Emilia-Romagna
 END:VEVENT
 BEGIN:VEVENT
 UID:cciaa-modena-occupazione-giovanile-2026@incentiviperte.github.io
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Bando a sostegno dell'occupazione giovanile – 2026 (codice 26OC)
@@ -269,8 +351,23 @@ URL:https://incentiviperte.github.io/bando/cciaa-modena-occupazione-giovani
 LOCATION:Emilia-Romagna
 END:VEVENT
 BEGIN:VEVENT
+UID:fondo-energia-er-2026@incentiviperte.github.io
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:Fondo Energia – Programma regionale FESR Emilia-Romagna 2021-2027
+DESCRIPTION:Invio definitivo delle domande dalle ore 11:00 del 12 ottobre 2
+ 026 fino alle ore 16:00 del 30 novembre 2026\, salvo chiusura anticipata p
+ er esaurimento fondi. Precaricamento in piattaforma dalle ore 11:00 del 5 
+ ottobre 2026. Compilazione sul portale Fondo Energia (fondoenergia.artigia
+ ncredito.it).\nScheda: https://incentiviperte.github.io/bando/fondo-energi
+ a-er-2026
+URL:https://incentiviperte.github.io/bando/fondo-energia-er-2026
+LOCATION:Emilia-Romagna
+END:VEVENT
+BEGIN:VEVENT
 UID:fondo-greener-er-2026@incentiviperte.github.io
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Fondo Multiscopo – sezione GreenER (finestra ott.-nov. 2026)
@@ -281,7 +378,7 @@ LOCATION:Emilia-Romagna
 END:VEVENT
 BEGIN:VEVENT
 UID:fondo-starter-er-2026@incentiviperte.github.io
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Fondo Multiscopo – sezione StartER (finestra ott.-nov. 2026)
@@ -293,7 +390,7 @@ LOCATION:Emilia-Romagna
 END:VEVENT
 BEGIN:VEVENT
 UID:fvg-commercio-art129-2026@incentiviperte.github.io
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Contributi per il commercio e la rete distributiva regionale 2026 (
@@ -305,8 +402,22 @@ URL:https://incentiviperte.github.io/bando/fvg-commercio-art129-2026
 LOCATION:Friuli-Venezia Giulia
 END:VEVENT
 BEGIN:VEVENT
+UID:puglia-jtf-cer-taranto-2026@incentiviperte.github.io
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:Avviso JTF 21-27 – Sostegno alle Comunità Energetiche Rinnovabil
+ i nella Provincia di Taranto
+DESCRIPTION:Candidature dalle ore 09:00 del 26/06/2026 fino alle ore 12:00 
+ del 30/11/2026\, sulla piattaforma del Catalogo bandi («Vai alla domanda
+ »).\nScheda: https://incentiviperte.github.io/bando/puglia-jtf-cer-tarant
+ o-2026
+URL:https://incentiviperte.github.io/bando/puglia-jtf-cer-taranto-2026
+LOCATION:Puglia
+END:VEVENT
+BEGIN:VEVENT
 UID:sardegna-collaborazione-innovazione-2026@incentiviperte.github.io
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Aiuti per progetti di collaborazione per l’innovazione (Sardegna)
@@ -319,7 +430,7 @@ LOCATION:Sardegna
 END:VEVENT
 BEGIN:VEVENT
 UID:step-2026-sovvenzione-umbria@incentiviperte.github.io
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Avviso STEP 2026 – Linea a sovvenzione
@@ -331,7 +442,7 @@ LOCATION:Umbria
 END:VEVENT
 BEGIN:VEVENT
 UID:step-2026-umbria@incentiviperte.github.io
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Bando STEP 2026 – finanziamenti agevolati tecnologie strategiche
@@ -341,8 +452,22 @@ URL:https://incentiviperte.github.io/bando/step-2026-umbria
 LOCATION:Umbria
 END:VEVENT
 BEGIN:VEVENT
+UID:trento-energia-allo-sviluppo-2026@incentiviperte.github.io
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:Bando Energia allo Sviluppo – L.p. 6/2023
+DESCRIPTION:Domande ad APIAE sulla piattaforma S.I. Pat dalle 12:00 del 1°
+  ottobre 2026 alle 12:00 del 30 novembre 2026. Procedura automatica. Delib
+ erazione della Giunta provinciale n. 780 del 25/05/2026 e s.m.\nScheda: ht
+ tps://incentiviperte.github.io/bando/trento-energia-allo-sviluppo-2026
+URL:https://incentiviperte.github.io/bando/trento-energia-allo-sviluppo-202
+ 6
+LOCATION:Trentino-Alto Adige
+END:VEVENT
+BEGIN:VEVENT
 UID:umbria-poli-innovazione-2026@incentiviperte.github.io
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261130
 DTEND;VALUE=DATE:20261201
 SUMMARY:Avviso Poli di Innovazione 2026
@@ -354,7 +479,7 @@ LOCATION:Umbria
 END:VEVENT
 BEGIN:VEVENT
 UID:assunzioni-montagna-er-2026@incentiviperte.github.io
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
 SUMMARY:Contributi all’assunzione nei territori montani e nelle aree inte
@@ -367,7 +492,7 @@ LOCATION:Emilia-Romagna
 END:VEVENT
 BEGIN:VEVENT
 UID:cciaa-arezzo-siena-export-2026-arezzo@incentiviperte.github.io
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
 SUMMARY:Bando Export 2026 – provincia di Arezzo
@@ -380,7 +505,7 @@ LOCATION:Toscana
 END:VEVENT
 BEGIN:VEVENT
 UID:cciaa-arezzo-siena-export-2026-siena@incentiviperte.github.io
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261215
 DTEND;VALUE=DATE:20261216
 SUMMARY:Bando Export 2026 – provincia di Siena
@@ -392,8 +517,42 @@ URL:https://incentiviperte.github.io/bando/cciaa-arezzo-siena-export-2026-s
 LOCATION:Toscana
 END:VEVENT
 BEGIN:VEVENT
+UID:marche-feampa-motori-2026@incentiviperte.github.io
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:PN FEAMPA 2021/2027 – Intervento 112103 «Motori 2026» – Inves
+ timenti per migliorare l’efficienza energetica e la mitigazione degli im
+ patti sui cambiamenti climatici
+DESCRIPTION:Domande dal 15/10/2026 fino al 15/12/2026 sulla piattaforma web
+  indicata dalla pagina ufficiale. Dotazione 300.000 €\, DDS n. 158 del 1
+ 4/10/2026. Intensità e spese: dato non ancora pubblicato.\nScheda: https:
+ //incentiviperte.github.io/bando/marche-feampa-motori-2026
+URL:https://incentiviperte.github.io/bando/marche-feampa-motori-2026
+LOCATION:Marche
+END:VEVENT
+BEGIN:VEVENT
+UID:sicilia-ciclone-harry-frana-niscemi-2026@incentiviperte.github.io
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261217
+DTEND;VALUE=DATE:20261218
+SUMMARY:Finanziamenti agevolati e contributi a fondo perduto per investimen
+ ti a seguito dei danni del Ciclone Harry e della frana di Niscemi – fine
+ stra residuale frana di Niscemi
+DESCRIPTION:Apertura originaria: dalle ore 12:00 del 12 maggio 2026 sulla p
+ iattaforma incentivisicilia.irfis.it. Aggiornamento IRFIS dell’8/10/2026
+ : termini riaperti fino alle ore 12:00 del 30/10/2026 per i danni del Cicl
+ one Harry in generale\; «Fino al 17 dicembre 2026 solo per i danni subiti
+  dalla frana di Niscemi». L’ora del 17/12/2026 non è indicata.\nScheda
+ : https://incentiviperte.github.io/bando/sicilia-ciclone-harry-frana-nisce
+ mi-2026
+URL:https://incentiviperte.github.io/bando/sicilia-ciclone-harry-frana-nisc
+ emi-2026
+LOCATION:Sicilia
+END:VEVENT
+BEGIN:VEVENT
 UID:abruzzo-welfare-aziendale-fse@incentiviperte.github.io
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261218
 DTEND;VALUE=DATE:20261219
 SUMMARY:Interventi di welfare aziendale – Regione Abruzzo (FSE+)
@@ -405,7 +564,7 @@ LOCATION:Abruzzo
 END:VEVENT
 BEGIN:VEVENT
 UID:piemonte-obbligazioni-pmi-2026@incentiviperte.github.io
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261221
 DTEND;VALUE=DATE:20261222
 SUMMARY:Abbattimento oneri emissione obbligazioni PMI e mid-cap
@@ -417,7 +576,7 @@ LOCATION:Piemonte
 END:VEVENT
 BEGIN:VEVENT
 UID:sviluppo-competenze-pmi-sud-2026@incentiviperte.github.io
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261221
 DTEND;VALUE=DATE:20261222
 SUMMARY:Sviluppo competenze – formazione del personale delle PMI del Mezz
@@ -429,8 +588,24 @@ URL:https://incentiviperte.github.io/bando/sviluppo-competenze-pmi-sud-2026
 LOCATION:Nazionali
 END:VEVENT
 BEGIN:VEVENT
+UID:lazio-capacita-manageriali-imprese-2026@incentiviperte.github.io
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261222
+DTEND;VALUE=DATE:20261223
+SUMMARY:Avviso per il rafforzamento delle capacità manageriali delle impre
+ se
+DESCRIPTION:Candidature a sportello dalle ore 9:30 del 2 febbraio 2026 ed e
+ ntro le ore 17:00 del 22 dicembre 2026 (proroga di cui alla determinazione
+  n. G06729 del 19/05/2026)\, fino a esaurimento delle risorse\, su SiGeM.\
+ nScheda: https://incentiviperte.github.io/bando/lazio-capacita-manageriali
+ -imprese-2026
+URL:https://incentiviperte.github.io/bando/lazio-capacita-manageriali-impre
+ se-2026
+LOCATION:Lazio
+END:VEVENT
+BEGIN:VEVENT
 UID:calabria-feeri@incentiviperte.github.io
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261230
 DTEND;VALUE=DATE:20261231
 SUMMARY:FEERI – Fondo efficienza energetica e rinnovabili per le imprese 
@@ -443,7 +618,7 @@ LOCATION:Calabria
 END:VEVENT
 BEGIN:VEVENT
 UID:basilicata-formazione-continua-imprese@incentiviperte.github.io
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
 SUMMARY:Formazione continua 2024-2027 – Imprese (Basilicata)
@@ -456,7 +631,7 @@ LOCATION:Basilicata
 END:VEVENT
 BEGIN:VEVENT
 UID:cciaa-firenze-nuove-imprese-2026@incentiviperte.github.io
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
 SUMMARY:Contributi alle nuove imprese della città metropolitana di Firenze
@@ -469,7 +644,7 @@ LOCATION:Toscana
 END:VEVENT
 BEGIN:VEVENT
 UID:cciaa-firenze-sicurezza-sedi-2026@incentiviperte.github.io
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
 SUMMARY:Sicurezza delle sedi aziendali – 2026 (città metropolitana di Fi
@@ -483,7 +658,7 @@ LOCATION:Toscana
 END:VEVENT
 BEGIN:VEVENT
 UID:cciaa-firenze-turismo-sostenibile-2026@incentiviperte.github.io
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
 SUMMARY:Transizione sostenibile delle MPMI turistiche della città metropol
@@ -497,7 +672,7 @@ LOCATION:Toscana
 END:VEVENT
 BEGIN:VEVENT
 UID:efficienza-energetica-2026-umbria@incentiviperte.github.io
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
 SUMMARY:Bando Efficienza Energetica 2026
@@ -509,7 +684,7 @@ LOCATION:Umbria
 END:VEVENT
 BEGIN:VEVENT
 UID:fonti-rinnovabili-2026-umbria@incentiviperte.github.io
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
 SUMMARY:Bando Fonti Rinnovabili 2026
@@ -519,8 +694,21 @@ URL:https://incentiviperte.github.io/bando/fonti-rinnovabili-2026-umbria
 LOCATION:Umbria
 END:VEVENT
 BEGIN:VEVENT
+UID:fvg-artigianato-tipico-2026@incentiviperte.github.io
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:Contributi alle imprese artigiane – Linea Artigianato Tipico (Edi
+ zione 2026)
+DESCRIPTION:Dalle ore 10:00 del 15 giugno 2026 fino alle ore 16:00 del 31 d
+ icembre 2026. Istruttoria e assistenza: CATA Artigianato FVG .\nScheda: ht
+ tps://incentiviperte.github.io/bando/fvg-artigianato-tipico-2026
+URL:https://incentiviperte.github.io/bando/fvg-artigianato-tipico-2026
+LOCATION:Friuli-Venezia Giulia
+END:VEVENT
+BEGIN:VEVENT
 UID:igp-artigianato-toscana-2026@incentiviperte.github.io
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20261231
 DTEND;VALUE=DATE:20270101
 SUMMARY:Registrazione IGP di prodotti artigianali e industriali
@@ -531,8 +719,59 @@ URL:https://incentiviperte.github.io/bando/igp-artigianato-toscana-2026
 LOCATION:Toscana
 END:VEVENT
 BEGIN:VEVENT
+UID:lazio-sostituzione-veicoli-commerciali-inquinanti@incentiviperte.github
+ .io
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:Avviso Sostituzione Veicoli Commerciali Inquinanti
+DESCRIPTION:Domande su GeCoWEB Plus dalle ore 12:00 del 1° dicembre 2025 e
+ d entro il 31 dicembre 2026 (scadenza modificata con determinazione n. G04
+ 122 del 30/03/2026). L’ora del 31/12/2026 non è indicata sulla scheda u
+ fficiale.\nScheda: https://incentiviperte.github.io/bando/lazio-sostituzio
+ ne-veicoli-commerciali-inquinanti
+URL:https://incentiviperte.github.io/bando/lazio-sostituzione-veicoli-comme
+ rciali-inquinanti
+LOCATION:Lazio
+END:VEVENT
+BEGIN:VEVENT
+UID:liguria-entroterra-nuove-attivita-2026@incentiviperte.github.io
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:Entroterra. Bando sperimentale per l’insediamento di nuove attivi
+ tà economiche del comparto artigianato\, commercio e servizi di ristorazi
+ one
+DESCRIPTION:Meta ufficiale della pagina: data apertura 15 settembre 2025\, 
+ data chiusura 31 dicembre 2026. Le domande si presentano fino al 31 dicemb
+ re 2026 tramite PEC a . Chiusura anticipata nel giorno in cui le richieste
+  superano le risorse disponibili. L’ora di chiusura non è indicata.\nSc
+ heda: https://incentiviperte.github.io/bando/liguria-entroterra-nuove-atti
+ vita-2026
+URL:https://incentiviperte.github.io/bando/liguria-entroterra-nuove-attivit
+ a-2026
+LOCATION:Liguria
+END:VEVENT
+BEGIN:VEVENT
+UID:vda-efficientamento-energetico-imprese-fesr@incentiviperte.github.io
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:Avviso per la realizzazione di interventi per l’efficientamento e
+ nergetico delle imprese – PR FESR Valle d’Aosta 2021-2027
+DESCRIPTION:Domande su SISPREG dalle 10:00 del 1° ottobre 2025. Il testo a
+  centro pagina indica ancora le 12:00 del 30 novembre 2026 e comunque fino
+  a esaurimento delle risorse. In testa alla stessa pagina\, provvedimento 
+ n. 811 del 23/09/2026: termine prorogato al 31/12/2026 (ora non riformulat
+ a nel provvedimento).\nScheda: https://incentiviperte.github.io/bando/vda-
+ efficientamento-energetico-imprese-fesr
+URL:https://incentiviperte.github.io/bando/vda-efficientamento-energetico-i
+ mprese-fesr
+LOCATION:Valle d'Aosta
+END:VEVENT
+BEGIN:VEVENT
 UID:eccc-digital-europe-ai4sme-2027@incentiviperte.github.io
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20270114
 DTEND;VALUE=DATE:20270115
 SUMMARY:Digital Europe – cybersicurezza delle PMI con soluzioni AI (DIGIT
@@ -545,7 +784,7 @@ LOCATION:Europeo
 END:VEVENT
 BEGIN:VEVENT
 UID:veneto-imprese-culturali-creative-1311a-2026@incentiviperte.github.io
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20270119
 DTEND;VALUE=DATE:20270120
 SUMMARY:Imprese culturali\, creative e dell’audiovisivo – consolidament
@@ -559,7 +798,7 @@ LOCATION:Veneto
 END:VEVENT
 BEGIN:VEVENT
 UID:cciaa-romagna-fondo-energia-2026@incentiviperte.github.io
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20270120
 DTEND;VALUE=DATE:20270121
 SUMMARY:Intervento straordinario Fondo Energia Imprese – 2026 (Forlì-Ces
@@ -573,7 +812,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cciaa-ferrara-ravenna-competitivita-imprese-giovanili-2026@incentiviper
  te.github.io
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20270122
 DTEND;VALUE=DATE:20270123
 SUMMARY:Piano Giovani: competitività delle imprese giovanili – 2026 (Fer
@@ -588,7 +827,7 @@ END:VEVENT
 BEGIN:VEVENT
 UID:cciaa-ferrara-ravenna-creazione-imprese-giovanili-2026@incentiviperte.g
  ithub.io
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20270122
 DTEND;VALUE=DATE:20270123
 SUMMARY:Piano Giovani: creazione di imprese giovanili – 2026 (Ferrara e R
@@ -602,7 +841,7 @@ LOCATION:Emilia-Romagna
 END:VEVENT
 BEGIN:VEVENT
 UID:cciaa-emilia-credito-confidi-2026@incentiviperte.github.io
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20270130
 DTEND;VALUE=DATE:20270131
 SUMMARY:Bando a sostegno dell'accesso al credito tramite i Confidi – CF26
@@ -616,7 +855,7 @@ LOCATION:Emilia-Romagna
 END:VEVENT
 BEGIN:VEVENT
 UID:cciaa-ferrara-ravenna-credito-confidi-2026@incentiviperte.github.io
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20270331
 DTEND;VALUE=DATE:20270401
 SUMMARY:Bando a sostegno dell'accesso al credito tramite i Confidi – 26CF
@@ -631,7 +870,7 @@ LOCATION:Emilia-Romagna
 END:VEVENT
 BEGIN:VEVENT
 UID:eureca-er-tutti-settori-2026@incentiviperte.github.io
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20270331
 DTEND;VALUE=DATE:20270401
 SUMMARY:EuReCa – contributo in conto interessi per gli investimenti delle
@@ -644,7 +883,7 @@ LOCATION:Emilia-Romagna
 END:VEVENT
 BEGIN:VEVENT
 UID:marche-internazionalizzazione-cciaa-2026@incentiviperte.github.io
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20270430
 DTEND;VALUE=DATE:20270501
 SUMMARY:Supporto integrato all’internazionalizzazione 2026 – Regione Ma
@@ -658,7 +897,7 @@ LOCATION:Marche
 END:VEVENT
 BEGIN:VEVENT
 UID:molise-step-2026@incentiviperte.github.io
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20270430
 DTEND;VALUE=DATE:20270501
 SUMMARY:Avviso STEP Molise – tecnologie digitali\, deep tech\, pulite e b
@@ -670,7 +909,7 @@ LOCATION:Molise
 END:VEVENT
 BEGIN:VEVENT
 UID:toscana-disabilita-assunzioni-2026-2027@incentiviperte.github.io
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20270517
 DTEND;VALUE=DATE:20270518
 SUMMARY:Fondo regionale per l'occupazione delle persone con disabilità 202
@@ -684,8 +923,106 @@ URL:https://incentiviperte.github.io/bando/toscana-disabilita-assunzioni-20
 LOCATION:Toscana
 END:VEVENT
 BEGIN:VEVENT
+UID:basilicata-basilavoro-2-2026@incentiviperte.github.io
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270701
+SUMMARY:Avviso pubblico #Basilavoro 2.0 – Incentivi alle imprese per l’
+ assunzione stabile di lavoratori disoccupati e provenienti da crisi indust
+ riali
+DESCRIPTION:Presentazione istanze sul portale dalle 09:00 del 05/06/2026 al
+ le 17:00 del 30/06/2027.\nScheda: https://incentiviperte.github.io/bando/b
+ asilicata-basilavoro-2-2026
+URL:https://incentiviperte.github.io/bando/basilicata-basilavoro-2-2026
+LOCATION:Basilicata
+END:VEVENT
+BEGIN:VEVENT
+UID:lombardia-competenze-innovazione-ii-2026@incentiviperte.github.io
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270701
+SUMMARY:Bando Competenze & Innovazione – II Edizione
+DESCRIPTION:Domande dalle ore 12:00 dell’8 aprile 2026 fino alle ore 12:0
+ 0 del 30 giugno 2027\, a sportello in ordine cronologico\, tramite il sist
+ ema Bandi e Servizi\, fino a una richiesta massima pari alla dotazione add
+ izionata del 20% e comunque entro tale termine. La pagina istituzionale us
+ ata come prova è Open Innovation\, non il portale Bandi e Servizi (non in
+ terrogato come fonte\, coerente con il blocco manutenzione del 9/11).\nSch
+ eda: https://incentiviperte.github.io/bando/lombardia-competenze-innovazio
+ ne-ii-2026
+URL:https://incentiviperte.github.io/bando/lombardia-competenze-innovazione
+ -ii-2026
+LOCATION:Lombardia
+END:VEVENT
+BEGIN:VEVENT
+UID:sardegna-fondo-competitivita-imprese-2026@incentiviperte.github.io
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270701
+SUMMARY:Avviso per la selezione di Piani di investimenti da finanziare attr
+ averso il Fondo di Competitività delle imprese
+DESCRIPTION:Scheda bando ufficiale\, aggiornata il 24/09/2026: «Le Manifes
+ tazioni di Interesse potranno essere presentate dalle ore 12.00 del 24/09/
+ 2026 alle ore 12.00 del 30/06/2027». La stessa scheda\, nel campo «Data 
+ di scadenza»\, riporta anche le ore 23:59:00 del 30/06/2027. La notizia u
+ fficiale del 24/09/2026 conferma le 12:00 del 30/06/2027\, salvo chiusura 
+ anticipata. In scheda si usa l’orario 12:00 del testo dispositivo\, con 
+ evidenza del conflitto.\nScheda: https://incentiviperte.github.io/bando/sa
+ rdegna-fondo-competitivita-imprese-2026
+URL:https://incentiviperte.github.io/bando/sardegna-fondo-competitivita-imp
+ rese-2026
+LOCATION:Sardegna
+END:VEVENT
+BEGIN:VEVENT
+UID:trento-fare-impresa-desertificazione-commerciale-2026@incentiviperte.gi
+ thub.io
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270701
+SUMMARY:Bando Fare impresa in aree a rischio desertificazione commerciale 
+ – L.p. 6/2023
+DESCRIPTION:Domande a Trentino Sviluppo sulla piattaforma Agorà (SPID\, CP
+ S/CNS o CIE) dalle 12:00 del 2 novembre 2026 alle 12:00 del 30 giugno 2027
+ .\nScheda: https://incentiviperte.github.io/bando/trento-fare-impresa-dese
+ rtificazione-commerciale-2026
+URL:https://incentiviperte.github.io/bando/trento-fare-impresa-desertificaz
+ ione-commerciale-2026
+LOCATION:Trentino-Alto Adige
+END:VEVENT
+BEGIN:VEVENT
+UID:toscana-welfare-aziendale-conciliazione-2026-2027@incentiviperte.github
+ .io
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20271030
+DTEND;VALUE=DATE:20271031
+SUMMARY:Avviso pubblico 2026-2027 per il finanziamento di piani di welfare 
+ aziendale per la conciliazione vita-lavoro
+DESCRIPTION:Domande a partire dal 5 novembre 2026 (giorno successivo alla p
+ ubblicazione sul BURT del 04/11/2026\; l’ora di apertura non è indicata
+ ) ed entro le ore 12:00 del 30 ottobre 2027\, salvo chiusura anticipata pe
+ r esaurimento risorse con decreto sul BURT e avviso su https://www.regione
+ .toscana.it/pr-fse-2021-2027/bandi-aperti.\nScheda: https://incentiviperte
+ .github.io/bando/toscana-welfare-aziendale-conciliazione-2026-2027
+URL:https://incentiviperte.github.io/bando/toscana-welfare-aziendale-concil
+ iazione-2026-2027
+LOCATION:Toscana
+END:VEVENT
+BEGIN:VEVENT
+UID:giovani-attivita-professionali-lazio-2026@incentiviperte.github.io
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20271110
+DTEND;VALUE=DATE:20271111
+SUMMARY:Giovani Attività Professionali 2026
+DESCRIPTION:Invio domande dalle 12:00 del 10/11/2026 alle 17:00 del 10/11/2
+ 027\, salvo esaurimento (Det. G15181/2026).\nScheda: https://incentivipert
+ e.github.io/bando/giovani-attivita-professionali-lazio-2026
+URL:https://incentiviperte.github.io/bando/giovani-attivita-professionali-l
+ azio-2026
+LOCATION:Lazio
+END:VEVENT
+BEGIN:VEVENT
 UID:liguria-quota-liguria@incentiviperte.github.io
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20271230
 DTEND;VALUE=DATE:20271231
 SUMMARY:Quota Liguria – contributi per la quotazione delle PMI
@@ -695,8 +1032,48 @@ URL:https://incentiviperte.github.io/bando/liguria-quota-liguria
 LOCATION:Liguria
 END:VEVENT
 BEGIN:VEVENT
+UID:basilicata-basilstep-tirocini-lavoro-2026@incentiviperte.github.io
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20271231
+DTEND;VALUE=DATE:20280101
+SUMMARY:Avviso pubblico #BASILSTEP Tirocini e Lavoro
+DESCRIPTION:Istanze dalle 09:00 del 11/09/2026 alle 23:59 del 31/12/2027\, 
+ e comunque fino a esaurimento della dotazione finanziaria disponibile (avv
+ iso del portale).\nScheda: https://incentiviperte.github.io/bando/basilica
+ ta-basilstep-tirocini-lavoro-2026
+URL:https://incentiviperte.github.io/bando/basilicata-basilstep-tirocini-la
+ voro-2026
+LOCATION:Basilicata
+END:VEVENT
+BEGIN:VEVENT
+UID:basilicata-pronti-export-2026@incentiviperte.github.io
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20271231
+DTEND;VALUE=DATE:20280101
+SUMMARY:Avviso pubblico Pronti per l’Export – misure di internazionaliz
+ zazione per le imprese lucane
+DESCRIPTION:Presentazione istanze dal 06/07/2026 alle 23:59 del 31/12/2027 
+ (orario di apertura indicato dal portale come 00:00).\nScheda: https://inc
+ entiviperte.github.io/bando/basilicata-pronti-export-2026
+URL:https://incentiviperte.github.io/bando/basilicata-pronti-export-2026
+LOCATION:Basilicata
+END:VEVENT
+BEGIN:VEVENT
+UID:fvg-nuovaimpresa-2026@incentiviperte.github.io
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20280630
+DTEND;VALUE=DATE:20280701
+SUMMARY:NuovaImpresa FVG (FSE+ 2021-2027)
+DESCRIPTION:Termini di apertura dal 17 giugno 2026 al 30 giugno 2028\, fino
+  a esaurimento delle risorse stanziate. La scheda non indica l’ora. Cont
+ atto indicato: Formindustria FVG\, .\nScheda: https://incentiviperte.githu
+ b.io/bando/fvg-nuovaimpresa-2026
+URL:https://incentiviperte.github.io/bando/fvg-nuovaimpresa-2026
+LOCATION:Friuli-Venezia Giulia
+END:VEVENT
+BEGIN:VEVENT
 UID:piemonte-digitalizzazione-efficientamento-2026@incentiviperte.github.io
-DTSTAMP:20261109T000000Z
+DTSTAMP:20261110T000000Z
 DTSTART;VALUE=DATE:20281029
 DTEND;VALUE=DATE:20281030
 SUMMARY:Digitalizzazione e efficientamento produttivo delle imprese 2026
@@ -707,5 +1084,19 @@ DESCRIPTION:Stato Aperto. Linea B da 07/07/2026 09:00\; Linea A da 13/10/20
 URL:https://incentiviperte.github.io/bando/piemonte-digitalizzazione-effici
  entamento-2026
 LOCATION:Piemonte
+END:VEVENT
+BEGIN:VEVENT
+UID:vda-voucher-borse-ricerca@incentiviperte.github.io
+DTSTAMP:20261110T000000Z
+DTSTART;VALUE=DATE:20291231
+DTEND;VALUE=DATE:20300101
+SUMMARY:Avviso pubblico – Assegnazione di voucher per borse di ricerca a 
+ organismi di ricerca e imprese
+DESCRIPTION:Domande su SISPREG dal 1° settembre 2026 al 31 dicembre 2029\,
+  a sportello in ordine cronologico\, fino a esaurimento delle risorse. Avv
+ iso approvato con DGR n. 935 del 14 agosto 2026.\nScheda: https://incentiv
+ iperte.github.io/bando/vda-voucher-borse-ricerca
+URL:https://incentiviperte.github.io/bando/vda-voucher-borse-ricerca
+LOCATION:Valle d'Aosta
 END:VEVENT
 END:VCALENDAR
