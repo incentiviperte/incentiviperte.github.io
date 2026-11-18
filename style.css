@@ -228,3 +228,6 @@ footer nav{margin-top:8px}
 .checkup-form .consensi input{width:1.15rem;height:1.15rem;margin-top:.35rem;flex:0 0 auto}
 .btn:disabled,.checkup-form fieldset[disabled] .btn{opacity:.55;cursor:not-allowed}
 .checkup-form fieldset[disabled]{border:0;margin:0;padding:0;min-inline-size:0}
+main p,.faq p{text-align:justify;hyphens:auto;-webkit-hyphens:auto}
+.card p,.sp p,.filters p,p.upd,p.fonte,p.hero-actions,p.contact-links,p.cal-actions,p.row,p.lab,p.costo,p.fine,p.imp,p.launch,p.pay-amt,p.count,p.amt,p.sum,p.spt,p.spazio-nota,p.spp,.btn{text-align:left;hyphens:manual;-webkit-hyphens:manual}
+@media(max-width:599px){main p,.faq p{text-align:left;hyphens:auto;-webkit-hyphens:auto}}
