@@ -180,6 +180,8 @@ footer ul{list-style:none;padding:0;margin:4px 0 0;display:flex;flex-wrap:wrap;g
 footer li a{min-height:44px;display:inline-flex;align-items:center}
 footer p{margin:10px 0}
 footer nav{margin-top:8px}
+.firma-autore{display:flex;justify-content:flex-end;margin:12px 0 0;opacity:.55}
+.firma-autore svg{display:block;width:18px;height:18px}
 @media(max-width:600px){
   .hero{padding:28px 0 24px}
   .hero-actions{flex-direction:column;align-items:stretch}
